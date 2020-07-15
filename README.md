@@ -1,1 +1,0 @@
-# IBM-Hackchallenge2020
