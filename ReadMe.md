@@ -5,9 +5,9 @@
 ## PROJECT DEMONSTRATION VIDEO AND REPORT
 Find **Video** here -> https://drive.google.com/drive/folders/17T-ytbKAgtg1z0wrf-MMXJC_bssDsEQD?usp=sharing
 
-Find detailed **Project Report** here -> https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/IBM%20HACK%20CHALLENGE%20PROJECT%20REPORT%20(1).pdf
+Find detailed **Project Report** here -> https://github.com/ahanbose18/IBM-Hackchallenge2020/blob/master/IBM%20HACK%20CHALLENGE%20PROJECT%20REPORT%20(1).pdf
 
-Find **Project PPT** here -> https://docs.google.com/presentation/d/1khU2b31zzD5HEGPFnvS4dBTM_QMKjtBnt1EkYxWK1SU/edit?usp=sharing
+Find **Project PPT** here -> https://github.com/ahanbose18/IBM-Hackchallenge2020/blob/master/SentimentAnalysis-PPT.pptx
 
 ## Introduction
 
