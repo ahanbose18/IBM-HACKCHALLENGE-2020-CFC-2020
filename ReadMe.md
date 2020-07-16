@@ -57,7 +57,7 @@ Create a MapBox account,and get the API tokens
 </br>
 
  
- ![Landing Page](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/LandingPage.gif)
+ ![Landing Page](https://github.com/ahanbose18/IBM-Hackchallenge2020/blob/master/LandingPage.gif)
  
  
  # Node-Red Flows
